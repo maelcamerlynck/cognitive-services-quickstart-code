@@ -1,5 +1,5 @@
-key = "<paste-your-text-analytics-key-here>"
-endpoint = "<paste-your-text-analytics-endpoint-here>"
+key = "d4adcdc709a24e5fb4ec1e7b0cef7f17"
+endpoint = "https://ostextanalytics.cognitiveservices.azure.com/"
 
 from azure.ai.textanalytics import TextAnalyticsClient, TextAnalyticsApiKeyCredential
 
